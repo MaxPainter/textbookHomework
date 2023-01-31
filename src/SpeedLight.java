@@ -2,7 +2,8 @@
  * @class: SpeedLight
  * @author: Max Painter
  * @written: January 26, 2023
- * description: Write a program named SpeedLight.java that calculate the distance to a lightning strike based on the time elapsed between the flash and the sound of thunder.
+ * description: Write a program named SpeedLight.java that calculatethe distance
+ * to a lightning strike based on the time elapsed between the flash and the sound of thunder.
  */
 public class SpeedLight {
     public static void main(String[] args) {

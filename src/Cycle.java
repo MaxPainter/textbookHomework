@@ -1,8 +1,9 @@
 /**
- * @class: Stamps
+ * @class: Cycle
  * @author: Max Painter
  * @written: January 26, 2023
- * description: Write a program named Cycle.java and compute the total number tricycles at the shop.
+ * description: Write a program named Cycle.java and
+ * compute the total number tricycles at the shop.
  */
 public class Cycle {
     public static void main(String[] args) {

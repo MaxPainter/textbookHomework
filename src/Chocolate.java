@@ -1,8 +1,9 @@
 /**
- * @class: SpeedLight
+ * @class: Chocolate
  * @author: Max Painter
  * @written: January 26, 2023
- * description: Write a program to compute the number of bags you will need to add three chocolates instead of two chocolates.
+ * description: Write a program to compute the number of
+ * bags you will need to add three chocolates instead of two chocolates.
  */
 public class Chocolate {
     public static void main(String[] args) {
